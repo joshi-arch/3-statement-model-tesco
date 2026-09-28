@@ -57,6 +57,9 @@ Net income then feeds into the Cash Flow Statement and Retained Earnings.
 
 The Cash Flow Statement explains how the company's cash position changes.
 
+
+<img width="1036" height="557" alt="Screenshot 2026-09-28 144924" src="https://github.com/user-attachments/assets/74a1e933-a0c5-4bdc-8fd6-07fa59854d9d" />
+
 It incorporates:
 
 * Operating cash flow
@@ -142,6 +145,12 @@ and:
 A key feature of the model is the **scenario-switch system**.
 
 Users can change the model between different scenarios, such as:
+
+<img width="878" height="613" alt="Screenshot 2026-09-28 144957" src="https://github.com/user-attachments/assets/c672fe7c-4b45-43ca-a369-e72b1a6299a1" />
+
+
+<img width="872" height="612" alt="Screenshot 2026-09-28 144853" src="https://github.com/user-attachments/assets/03038d6e-818a-4fc6-8c16-306f951b55a4" />
+
 
 * **Base Case**
 * **Best Case**
