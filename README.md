@@ -144,8 +144,8 @@ A key feature of the model is the **scenario-switch system**.
 Users can change the model between different scenarios, such as:
 
 * **Base Case**
-* **Optimistic Case**
-* **Pessimistic Case**
+* **Best Case**
+* **Worst Case**
 
 The switches alter the assumptions used by the forecast rather than requiring individual cells to be manually changed.
 
